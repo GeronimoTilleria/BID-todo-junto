@@ -1,0 +1,21 @@
+h2{
+    text-align: center;
+}
+
+span {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+button {
+    margin-bottom: 20px;
+    border: none;
+    width: 190px;
+    margin: 0 auto;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 12px;
+}
